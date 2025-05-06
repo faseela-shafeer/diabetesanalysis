@@ -46,6 +46,6 @@ The best model is selected based on **highest accuracy**, with potential for dom
 ## 📦 Requirements
 
 Install the required packages:
-
+pip install pandas scikit-learn matplotlib seaborn 
 ```bash
-pip install pandas scikit-learn matplotlib seaborn
+pip install pandas scikit-learn matplotlib seaborn xgboost
